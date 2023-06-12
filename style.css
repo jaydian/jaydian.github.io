@@ -10,12 +10,18 @@ h2, h3, h4, h5
 .aboutusparagraph1 { border:solid;
   font-size:20px;
 }
-.image-small{width:100px;
+.image-small{width:150px;
 }
 .image-tcdsb{width:200px;
  float:left; 
 margin-right:10px;
   }
+.paragraph2{
+  font-size:20px;
+}
+.allaround{
+  width:150px;
+}
   .school-uniform{width:200px;
 float:right;
 margin-left:10px;
