@@ -14,7 +14,20 @@ h2, h3, h4, h5
 .image-tcdsb{width:200px;
  float:left; 
 margin-right:10px;
+  }
   .school-uniform{width:200px;
 float:right;
 margin-left:10px;
+  }
+.group-photo{width:200px;
+  float:right;
+  margin-left:10px;
+  }
+  .sprinter{width:200px;
+ float:left; 
+margin-right:10px;
+  }
+ .long-jump{width:200px;
+  float:right;
+  margin-left:10px;
   }
