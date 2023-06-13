@@ -10,7 +10,9 @@ h2, h3, h4, h5
 .aboutusparagraph1 { border:solid;
   font-size:20px;
 }
-.image-small{width:150px;
+.image-small{width:300px;
+  position:absolute;
+  left:10px;
 }
 .image-tcdsb{width:200px;
  float:left; 
