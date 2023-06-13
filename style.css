@@ -11,10 +11,8 @@ h2, h3, h4, h5
   font-size:20px;
 }
 .image-small{width:300px;
-  position:absolute;
   left:10px;
 }
-.image-tcdsb{width:200px;
  float:left; 
 margin-right:10px;
   }
@@ -36,8 +34,8 @@ margin-left:10px;
  float:left; 
 margin-right:10px;
   }
- .long-jump{width:200px;
+ .long-jump{width:250px;
   float:right;
-  margin-left:10px;
+  margin-left:20px;
   }
 .
