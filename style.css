@@ -19,7 +19,9 @@ margin-right:10px;
   font-size:20px;
 }
 .allaround{
-  width:150px;
+  width:250px;
+  float:left;
+margin-right:15px;
 }
   .school-uniform{width:200px;
 float:right;
@@ -37,4 +39,4 @@ margin-right:10px;
   float:right;
   margin-left:20px;
   }
-.
+
