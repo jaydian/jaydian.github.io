@@ -15,7 +15,7 @@ h2, h3, h4, h5
  float:left; 
 margin-right:10px;
   }
-.paragraph2{
+.paragraph2, listprogram{
   font-size:20px;
 }
 .allaround{
