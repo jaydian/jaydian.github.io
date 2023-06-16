@@ -52,7 +52,7 @@ margin-right:10px;
   overflow: hidden;
 }
 
-/* Style the links inside the navigation bar */
+
 .topnav a {
   float: left;
   color: green;
@@ -62,14 +62,12 @@ margin-right:10px;
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color:blue;
   color: black;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
-  background-color: blue;
-  color: white;
+  background-color:black;
+  color: blue;
 }
