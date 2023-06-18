@@ -79,11 +79,11 @@ margin-right:10px;
  font-size:25px;
 font-weight:bold;
 }
-p.ex1 {
+index.html, page2.html, page3.html, custom.html{
   max-width: 150px;
 }
 .uni-coord{
- font-size:50;
+ font-size:40;
 }
 .topnav {
   background-color: black;
