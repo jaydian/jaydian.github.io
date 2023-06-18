@@ -39,13 +39,21 @@ margin-left:10px;
   .sprinter{width:200px;
  float:left; 
 margin-right:10px;
+padding:10px;
   }
  .long-jump{width:250px;
   float:right;
   margin-left:20px;
   }
-.trainingimg{
- width:500px;
+.breakfast{
+ width:300px;
+ float:right; 
+margin-left:10px;
+}
+.student-struggle{
+ width:300px;
+  float:left; 
+margin-right:10px;
 }
 .topnav {
   background-color: black;
