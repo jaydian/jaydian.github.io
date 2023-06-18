@@ -76,11 +76,11 @@ margin-right:10px;
  width:250px;
 }
 #studentlife{
- font-size:25px;
+ font-size:30px;
 font-weight:bold;
 }
 index.html, page2.html, page3.html, custom.html{
-  max-width: 150px;
+  max-width:150px;
 }
 #uni-coord{
  font-size:40;
