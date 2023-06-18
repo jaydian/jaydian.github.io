@@ -85,6 +85,9 @@ index.html, page2.html, page3.html, custom.html{
 #uni-coord{
  font-size:40;
 }
+.books{
+ width:300px;
+}
 .topnav {
   background-color: black;
   overflow: hidden;
