@@ -82,7 +82,7 @@ font-weight:bold;
 index.html, page2.html, page3.html, custom.html{
   max-width: 150px;
 }
-.uni-coord{
+#uni-coord{
  font-size:40;
 }
 .topnav {
