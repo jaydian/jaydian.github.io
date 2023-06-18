@@ -7,8 +7,11 @@ h1{background-color:lightblue;
 h2, h3, h4, h5, h6, h7
 {font-size:30px;
 }
+p{
+ font-size:25px;
+}
 #aboutusparagraph1{border:solid;
-  font-size:20px;
+  font-size:25px;
 }
 .image-small{width:500px;
 }
@@ -18,7 +21,7 @@ h2, h3, h4, h5, h6, h7
 margin-left:10px;
   }
 #paragraph2{
-  font-size:15px;
+  font-size:25px;
 }
 #location-s{
  font-weight:bold;
@@ -77,6 +80,9 @@ font-weight:bold;
 }
 p.ex1 {
   max-width: 150px;
+}
+.uni-coord{
+ font-size:50;
 }
 .topnav {
   background-color: black;
