@@ -55,7 +55,16 @@ margin-left:10px;
   float:left; 
 margin-right:10px;
 }
-
+.psychology-pic{
+ width:300px;
+ float:right; 
+margin-left:10px;
+}
+.class-psy{
+ width:300px;
+ float:left; 
+margin-right:10px;
+}
 #conclude{
  font-size:20px;
  font-weight:bold;
