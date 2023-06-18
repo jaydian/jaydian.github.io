@@ -11,7 +11,7 @@ p{
  font-size:20px;
 }
 #aboutusparagraph1{border:solid;
-  font-size:25px;
+  font-size:20px;
 }
 .image-small{width:500px;
 }
@@ -76,6 +76,7 @@ margin-right:10px;
  width:200px;
 }
 #studentlife{
+ font-size:25px;
 font-weight:bold;
 }
 p.ex1 {
